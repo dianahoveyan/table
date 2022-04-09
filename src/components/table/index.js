@@ -77,5 +77,6 @@ function Table({ }) {
         </>
     )
 }
+console.log("Hello Git")
 
 export default Table;
